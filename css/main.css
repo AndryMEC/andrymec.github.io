@@ -24,7 +24,7 @@ header {
 }
 
 .container {
-	width: 930px;
+	max-width: 930px;
 	margin: 0 auto;
 }
 
@@ -193,25 +193,25 @@ footer .container > * {
 
 teble {
 	margin: auto;
-	width: 900px;
+	max-width: 900px;
 	height: 1050px;
 }
 
 .col1 {
 	vertical-align: top;
 	text-align: right;
-	width: 300px;
+	max-width: 300px;
 }
 
 .col2 {
 	text-align: center;
-	width: 300px;
+	max-width: 300px;
 	}
 
 .col3 {
 	vertical-align: top;	
 	text-align: left;
-	width: 300px;
+	max-width: 300px;
 }
 
 table p {
